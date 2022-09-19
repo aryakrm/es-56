@@ -1,12 +1,3 @@
-// function uncompletedNotes(notes) {
-//   const list = notes.forEach((element) => {
-//     element.done.filter((el) => el.todos.done === false);
-//   });
-//   // const un = list.filter((el) => el.todos.done === false);
-//   // console.log(un);
-//   console.log(list);
-// }
-
 function uncompletedNotes(notes) {
   const list = notes.forEach((element) => {
     element.todos;
